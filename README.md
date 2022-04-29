@@ -3,7 +3,7 @@ ssm后端项目开发
 这是github上另一个项目的修改版，因为那个项目没有写jsp界面，
 于是我就把controller层的返回视图的部分修改成了返回Json数据，
 并且因为自己的mysql版本是8的，所以还修改了一些依赖版本，
-贴出原项目的链接https://github.com/liyifeng1994/ssm，大家可以用我的这个修改后的进行测试后端接口
+贴出原项目的链接https://github.com/liyifeng1994/ssm ,大家可以用我的这个修改后的进行测试后端接口
 
 我使用的是postman进行接口的测试，tomcat服务器7和8版本都可以用
 
